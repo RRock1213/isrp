@@ -1,0 +1,35 @@
+{
+  "total_pairs": 18,
+  "isrp_true_wins": 9,
+  "e2e_true_wins": 5,
+  "ties": 4,
+  "win_rate_by_model": {
+    "isrp": 0.5,
+    "e2e": 0.2778
+  },
+  "avg_true_score_by_model": {
+    "isrp": 0.2222,
+    "e2e": -0.2222
+  },
+  "criterion_average_scores": {
+    "isrp": {
+      "coverage": 5.9444,
+      "semantic_correctness": 5.7778,
+      "language": 5.8611,
+      "specificity": 6.1667,
+      "guidance": 5.4167,
+      "relevance": 5.3333
+    },
+    "e2e": {
+      "coverage": 5.75,
+      "semantic_correctness": 6.8056,
+      "language": 5.2222,
+      "specificity": 4.3056,
+      "guidance": 4.9722,
+      "relevance": 5.6111
+    }
+  },
+  "low_confidence_prompts": [],
+  "task_type": "outline",
+  "criteria_source": "static_outline_dimensions"
+}

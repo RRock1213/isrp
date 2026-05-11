@@ -1,0 +1,24 @@
+{
+  "completed": 18,
+  "isrp_wins": 13,
+  "e2e_wins": 2,
+  "ties": 3,
+  "criterion_average_scores": {
+    "isrp": {
+      "coverage": 8.2222,
+      "specificity": 8.3333,
+      "relevance": 8.6111,
+      "semantic_correctness": 8.5556,
+      "guidance": 8.2778,
+      "language": 8.1667
+    },
+    "e2e": {
+      "coverage": 7.1667,
+      "specificity": 6.8333,
+      "relevance": 7.2222,
+      "semantic_correctness": 7.2778,
+      "guidance": 7.1667,
+      "language": 7.0556
+    }
+  }
+}

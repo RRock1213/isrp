@@ -1,0 +1,54 @@
+{
+  "file": "eval_outline",
+  "samples": 120,
+  "dimension_averages": {
+    "relevance": 9.16,
+    "specificity": 8.5,
+    "guidance": 8.75,
+    "language": 9.08,
+    "coverage": 9.18,
+    "semantic_correctness": 8.72
+  },
+  "overall_average": 8.9,
+  "high_score_rate": 92.5,
+  "min_score": 3.83,
+  "max_score": 10.0,
+  "dimension_details": {
+    "relevance": {
+      "count": 120,
+      "min": 3,
+      "max": 10,
+      "avg": 9.16
+    },
+    "specificity": {
+      "count": 120,
+      "min": 4,
+      "max": 10,
+      "avg": 8.5
+    },
+    "guidance": {
+      "count": 120,
+      "min": 2,
+      "max": 10,
+      "avg": 8.75
+    },
+    "language": {
+      "count": 120,
+      "min": 6,
+      "max": 10,
+      "avg": 9.08
+    },
+    "coverage": {
+      "count": 120,
+      "min": 2,
+      "max": 10,
+      "avg": 9.18
+    },
+    "semantic_correctness": {
+      "count": 120,
+      "min": 1,
+      "max": 10,
+      "avg": 8.72
+    }
+  }
+}

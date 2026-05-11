@@ -1,0 +1,614 @@
+{
+  "file": "eval_quality",
+  "samples": 18,
+  "overall_average": 9.13,
+  "high_score_rate": 88.9,
+  "dimension_averages": {
+    "Adaptability and Strategic Alignment": 9.0,
+    "Adherence to Social Media Format": 3.0,
+    "Audience Appropriateness": 10.0,
+    "Audience Engagement": 5.0,
+    "Authenticity and Credibility": 9.0,
+    "Brand Story Comprehensiveness": 10.0,
+    "Brand Story Integration": 9.0,
+    "Brand Story Relevance and Authenticity": 9.0,
+    "Brand Value Integration and Differentiation": 10.0,
+    "Brand Voice and Trust Building": 10.0,
+    "Brand-Specific Content": 10.0,
+    "Brand_Storytelling_and_Differentiation": 10.0,
+    "Case Study Integration": 10.0,
+    "Comprehensive Stress Analysis & Engagement": 8.0,
+    "Consumer Value Articulation": 10.0,
+    "Content Completeness": 9.5,
+    "Content Comprehensiveness": 10.0,
+    "Content Relevance and Specificity": 10.0,
+    "Content_Relevance_and_Focus": 10.0,
+    "Conversational Transformation": 10.0,
+    "Cultural and Emotional Resonance": 10.0,
+    "Data Analysis and Case Study Quality": 9.0,
+    "Douyin Platform Optimization": 10.0,
+    "Educational Function Integration": 9.0,
+    "Emotional Appeal and Trust Building": 8.0,
+    "Emotional_Resonance_and_Persuasiveness": 10.0,
+    "Event-Appropriate Content": 6.0,
+    "Health Benefits Substantiation": 9.0,
+    "Industry-Specific Applicability": 10.0,
+    "Ingredient Sourcing Detail": 10.0,
+    "Integration of Product Materials": 9.0,
+    "Integration of Reference Material and Photo Placement": 10.0,
+    "Kuaishou_Platform_Optimization": 10.0,
+    "Marketing Effectiveness": 5.0,
+    "Multimedia Format Appropriateness": 10.0,
+    "Narrative Quality and Emotional Resonance": 9.0,
+    "Narrative Structure and Storytelling Quality": 10.0,
+    "Onboarding Flow Comprehensiveness": 10.0,
+    "Parental Pain Point Relevance": 9.0,
+    "Personal Narrative Integration": 10.0,
+    "Personal Perspective and Cultural Insights": 9.0,
+    "Platform_Relevance_and_Accuracy": 10.0,
+    "Practical Stress-Relief Methods": 10.0,
+    "Production Process Clarity": 9.0,
+    "Professional Writing Quality": 10.0,
+    "Readability_and_Delivery_Effectiveness": 10.0,
+    "Relevance to Piping Rock Context": 10.0,
+    "Relevance_and_Focus": 10.0,
+    "Requirements Adherence": 6.0,
+    "Script Structure & Timing": 10.0,
+    "Script_Structure_and_Narrative": 9.0,
+    "Social Media Marketing Expertise": 10.0,
+    "Specificity_and_Actionability": 10.0,
+    "Strategic Alignment with Development Plan": 8.0,
+    "Strategic_Application_of_Case_Studies": 10.0,
+    "Structural Adherence and Word Count": 10.0,
+    "Structural Effectiveness": 2.0,
+    "Structural Integrity and Readability": 10.0,
+    "Target Audience Alignment": 9.67,
+    "Technical Accuracy & Simplification": 9.0,
+    "Technical Feature Integration": 10.0,
+    "Technical_Accuracy_and_Authority": 10.0,
+    "Technical_Understanding_of_Content_Engagement": 10.0,
+    "Technology Industry Style": 9.0,
+    "Technology Integration Specificity": 10.0,
+    "Time Efficiency and Conciseness": 3.0,
+    "Trust_and_Convenience_Messaging": 10.0,
+    "User Pain Point Alignment": 10.0,
+    "Visual Storytelling": 10.0,
+    "Visual_and_Audio_Direction": 9.0,
+    "Writing Style and Target Audience Alignment": 10.0,
+    "专业健身知识准确性": 9.0,
+    "叙事技巧与语言风格": 9.0,
+    "品牌差异化表达": 8.0,
+    "品牌故事完整性": 9.0,
+    "品牌特色与实际体验的契合度": 10.0,
+    "地区覆盖完整性": 8.0,
+    "实用信息完整度": 10.0,
+    "市场实用性与目标适配度": 8.0,
+    "情感共鸣与价值观传递": 9.0,
+    "文章结构与逻辑性": 10.0,
+    "旅行实用建议质量": 10.0,
+    "特色文化与美食描述": 9.0,
+    "细节描述真实性": 9.0,
+    "行程规划便利性": 10.0,
+    "资深健身爱好者视角的真实性": 9.0
+  },
+  "min_score": 5.0,
+  "max_score": 10.0,
+  "dimension_details": {
+    "Adaptability and Strategic Alignment": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Adherence to Social Media Format": {
+      "count": 1,
+      "min": 3,
+      "max": 3,
+      "avg": 3.0
+    },
+    "Audience Appropriateness": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Audience Engagement": {
+      "count": 1,
+      "min": 5,
+      "max": 5,
+      "avg": 5.0
+    },
+    "Authenticity and Credibility": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Brand Story Comprehensiveness": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Brand Story Integration": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Brand Story Relevance and Authenticity": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Brand Value Integration and Differentiation": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Brand Voice and Trust Building": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Brand-Specific Content": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Brand_Storytelling_and_Differentiation": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Case Study Integration": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Comprehensive Stress Analysis & Engagement": {
+      "count": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8.0
+    },
+    "Consumer Value Articulation": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Content Completeness": {
+      "count": 2,
+      "min": 9,
+      "max": 10,
+      "avg": 9.5
+    },
+    "Content Comprehensiveness": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Content Relevance and Specificity": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Content_Relevance_and_Focus": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Conversational Transformation": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Cultural and Emotional Resonance": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Data Analysis and Case Study Quality": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Douyin Platform Optimization": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Educational Function Integration": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Emotional Appeal and Trust Building": {
+      "count": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8.0
+    },
+    "Emotional_Resonance_and_Persuasiveness": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Event-Appropriate Content": {
+      "count": 1,
+      "min": 6,
+      "max": 6,
+      "avg": 6.0
+    },
+    "Health Benefits Substantiation": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Industry-Specific Applicability": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Ingredient Sourcing Detail": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Integration of Product Materials": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Integration of Reference Material and Photo Placement": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Kuaishou_Platform_Optimization": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Marketing Effectiveness": {
+      "count": 1,
+      "min": 5,
+      "max": 5,
+      "avg": 5.0
+    },
+    "Multimedia Format Appropriateness": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Narrative Quality and Emotional Resonance": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Narrative Structure and Storytelling Quality": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Onboarding Flow Comprehensiveness": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Parental Pain Point Relevance": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Personal Narrative Integration": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Personal Perspective and Cultural Insights": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Platform_Relevance_and_Accuracy": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Practical Stress-Relief Methods": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Production Process Clarity": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Professional Writing Quality": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Readability_and_Delivery_Effectiveness": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Relevance to Piping Rock Context": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Relevance_and_Focus": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Requirements Adherence": {
+      "count": 1,
+      "min": 6,
+      "max": 6,
+      "avg": 6.0
+    },
+    "Script Structure & Timing": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Script_Structure_and_Narrative": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Social Media Marketing Expertise": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Specificity_and_Actionability": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Strategic Alignment with Development Plan": {
+      "count": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8.0
+    },
+    "Strategic_Application_of_Case_Studies": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Structural Adherence and Word Count": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Structural Effectiveness": {
+      "count": 1,
+      "min": 2,
+      "max": 2,
+      "avg": 2.0
+    },
+    "Structural Integrity and Readability": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Target Audience Alignment": {
+      "count": 3,
+      "min": 9,
+      "max": 10,
+      "avg": 9.67
+    },
+    "Technical Accuracy & Simplification": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Technical Feature Integration": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Technical_Accuracy_and_Authority": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Technical_Understanding_of_Content_Engagement": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Technology Industry Style": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Technology Integration Specificity": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Time Efficiency and Conciseness": {
+      "count": 1,
+      "min": 3,
+      "max": 3,
+      "avg": 3.0
+    },
+    "Trust_and_Convenience_Messaging": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "User Pain Point Alignment": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Visual Storytelling": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Visual_and_Audio_Direction": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Writing Style and Target Audience Alignment": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "专业健身知识准确性": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "叙事技巧与语言风格": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "品牌差异化表达": {
+      "count": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8.0
+    },
+    "品牌故事完整性": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "品牌特色与实际体验的契合度": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "地区覆盖完整性": {
+      "count": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8.0
+    },
+    "实用信息完整度": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "市场实用性与目标适配度": {
+      "count": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8.0
+    },
+    "情感共鸣与价值观传递": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "文章结构与逻辑性": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "旅行实用建议质量": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "特色文化与美食描述": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "细节描述真实性": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "行程规划便利性": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "资深健身爱好者视角的真实性": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    }
+  }
+}

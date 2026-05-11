@@ -1,0 +1,4121 @@
+{
+  "file": "eval_quality",
+  "samples": 120,
+  "overall_average": 9.21,
+  "high_score_rate": 92.5,
+  "dimension_averages": {
+    "Academic Contextualization": 10.0,
+    "Academic Formality and Structure": 10.0,
+    "Academic_Comprehensiveness": 9.0,
+    "Academic_Rigor_and_Evidence": 10.0,
+    "Academic_Writing_Quality": 9.0,
+    "Accessibility and Clarity for Target Audience": 9.0,
+    "Accessibility and Language Appropriateness": 8.0,
+    "Actionability_and_Implementation_Detail": 10.0,
+    "Actionable Insights and Lessons": 10.0,
+    "Actionable Selection Criteria": 10.0,
+    "Adaptability and Strategic Alignment": 9.0,
+    "Adaptation Faithfulness": 9.0,
+    "Addressing Misconceptions and Educational Value": 10.0,
+    "Adherence to Format Requirements and Content Specifications": 10.0,
+    "Adherence to Outlined Structure": 9.0,
+    "Adherence to Social Media Format": 3.0,
+    "Age-Appropriate Language and Engagement": 8.0,
+    "Alignment with Policy Directives": 9.0,
+    "American Dream Analysis": 10.0,
+    "Analytical Depth and Critical Thinking": 4.0,
+    "Analytical Structure and Academic Rigor": 10.0,
+    "Answer_Analysis_Quality": 10.0,
+    "Apple-Specific Insights": 10.0,
+    "Application Feasibility and Economic Impact": 9.0,
+    "Application of Environmental Law Principles": 10.0,
+    "Appropriate Length and Detail Balance": 10.0,
+    "Artistic Language and Tone": 10.0,
+    "Audience Appropriateness": 9.0,
+    "Audience Engagement": 1.0,
+    "Audience Engagement and Accessibility": 9.0,
+    "Authenticity and Credibility": 9.0,
+    "BaaS模式分析": 9.0,
+    "Balance and Fairness of Perspective": 10.0,
+    "Ballet Repertoire and Technical Analysis": 10.0,
+    "Biographical_Relevance_and_Creative_Influence": 9.0,
+    "Brand Story Comprehensiveness": 10.0,
+    "Brand Story Integration": 10.0,
+    "Brand Story Relevance and Authenticity": 9.0,
+    "Brand Value Integration and Differentiation": 10.0,
+    "Brand Voice and Trust Building": 9.0,
+    "Brand-Specific Content": 8.0,
+    "Brand_Storytelling_and_Differentiation": 10.0,
+    "Business Transfer Specificity": 10.0,
+    "Business Unit Analysis Quality": 10.0,
+    "Call-to-Action & Persuasive Impact": 9.0,
+    "Call-to-Action Effectiveness": 1.0,
+    "Campaign Results and Data Specificity": 10.0,
+    "Case Analysis Quality": 9.0,
+    "Case Information Extraction Accuracy": 7.0,
+    "Case Integration & Application": 10.0,
+    "Case Presentation Quality": 9.0,
+    "Case Study Integration": 10.0,
+    "Case Study Integration and Analysis": 10.0,
+    "Character Analysis Depth": 10.0,
+    "Character Development & Protagonist Portrayal": 7.0,
+    "Character Development and Dialogue": 9.0,
+    "Character Development and Psychological Depth": 8.0,
+    "Character Psychological Analysis": 9.0,
+    "Character_Balance_and_Role_Design": 7.0,
+    "Character_Development_and_Background": 9.0,
+    "Clarity and Precision of Language": 8.0,
+    "Competitive_Advantage_Comparison_Depth": 9.0,
+    "Completeness of Patent Requirements": 9.0,
+    "Comprehensive Adherence to Structure": 9.0,
+    "Comprehensive Case Description": 10.0,
+    "Comprehensive Content Coverage": 10.0,
+    "Comprehensive Coverage of Judicial Fairness": 10.0,
+    "Comprehensive Coverage of Required Content": 9.0,
+    "Comprehensive Industry Analysis": 9.0,
+    "Comprehensive Literature Review": 10.0,
+    "Comprehensive Market Analysis": 2.0,
+    "Comprehensive Novel Coverage": 10.0,
+    "Comprehensive Project Coverage": 10.0,
+    "Comprehensive Risk Analysis Depth": 10.0,
+    "Comprehensive Stress Analysis & Engagement": 10.0,
+    "Comprehensiveness and Structure": 10.0,
+    "Comprehensiveness of Analysis": 9.0,
+    "Comprehensiveness of Content": 10.0,
+    "Comprehensiveness of Content Coverage": 10.0,
+    "Comprehensiveness of Contract Terms": 9.0,
+    "Comprehensiveness of Product Plan": 9.0,
+    "Comprehensiveness_and_Implementation_Guidance": 8.0,
+    "Comprehensiveness_and_Word_Count": 9.0,
+    "Comprehensiveness_of_Brand_Positioning_Analysis": 8.0,
+    "Consumer Value Articulation": 10.0,
+    "Consumer_Evaluation_Analysis_Quality": 10.0,
+    "Contemporary Relevance Analysis": 10.0,
+    "Contemporary Relevance and Audience Engagement": 9.0,
+    "Content Completeness": 6.0,
+    "Content Comprehensiveness": 10.0,
+    "Content Comprehensiveness and Accuracy": 9.0,
+    "Content Integration and Source Utilization": 9.0,
+    "Content Relevance and Specificity": 10.0,
+    "Content Scope and Depth": 9.0,
+    "Content Structure and Emotional Resonance": 9.0,
+    "Content_Completeness": 10.0,
+    "Content_Comprehensiveness": 10.0,
+    "Content_Relevance_and_Focus": 10.0,
+    "Contextual Integration": 10.0,
+    "Contextual Integration and Relevance": 10.0,
+    "Contextual Relevance": 10.0,
+    "Contextual Relevance and Query Adherence": 9.0,
+    "Contextual_Integration_of_Background_Information": 10.0,
+    "Contract Completeness": 10.0,
+    "Contract Relevance and Appropriateness": 10.0,
+    "Contract and Follow-up Service Guidance": 10.0,
+    "Conversational Transformation": 4.0,
+    "Core Competitiveness Analysis": 10.0,
+    "Correlation Analysis Precision": 10.0,
+    "Course Structure Clarity": 3.0,
+    "Critical Perspective Development": 10.0,
+    "Cultural Authenticity": 10.0,
+    "Cultural Context Accuracy": 10.0,
+    "Cultural and Artistic Context": 10.0,
+    "Cultural and Emotional Resonance": 9.0,
+    "Data & Evidence Integration": 10.0,
+    "Data Analysis and Case Study Quality": 9.0,
+    "Data Analysis and Interpretation": 9.0,
+    "Data Integration and Accuracy": 3.0,
+    "Data Visualization and Supporting Evidence": 10.0,
+    "Data-Driven Cost Optimization Analysis": 10.0,
+    "Data-Driven Decision Support": 10.0,
+    "Data-Driven Decision-Making Coverage": 10.0,
+    "Data_Integration_and_Analysis": 10.0,
+    "Data_Integration_and_Analysis_Quality": 9.0,
+    "Descriptive Detail & Visual Elements": 9.0,
+    "Dialogue Quality and Cultural Authenticity": 7.0,
+    "Differentiated SME Analysis and Recommendations": 10.0,
+    "Distinctive Features and Innovation": 9.0,
+    "Document Format Adherence": 3.0,
+    "Douyin Platform Optimization": 9.0,
+    "Dramatic Structure and Pacing": 9.0,
+    "Economic Analysis Depth": 10.0,
+    "Economic and Environmental Analysis Depth": 10.0,
+    "Educational Design Structure": 10.0,
+    "Educational Function Integration": 10.0,
+    "Educational Philosophy Communication": 10.0,
+    "Educational Value for Target Audience": 10.0,
+    "Educational and Warning Content Effectiveness": 9.0,
+    "Emotional Appeal and Trust Building": 9.0,
+    "Emotional Tone and Persuasive Quality": 7.0,
+    "Emotional_Resonance_and_Persuasiveness": 9.0,
+    "Engineering Feasibility Assessment": 9.0,
+    "Event-Appropriate Content": 2.0,
+    "Evidence and Data Support": 10.0,
+    "Evidence and Supporting Data": 8.0,
+    "Evidence-Based Advantage Analysis": 10.0,
+    "Evidence-Based Analysis of Case Studies": 10.0,
+    "Evidence-Based Argumentation": 10.0,
+    "Evidence-Based Credibility": 10.0,
+    "Evidentiary Assessment": 10.0,
+    "Exhibition Content Accuracy and Depth": 9.0,
+    "Exhibition Content Integration": 10.0,
+    "Fair Case Handling Articulation": 10.0,
+    "Feminist Theoretical Framework": 10.0,
+    "Financial Analysis Accuracy": 7.0,
+    "Financial Analysis Depth": 10.0,
+    "Financial Comprehensiveness": 10.0,
+    "Fintech Knowledge Accuracy": 9.0,
+    "Formal Legal Structure and Style": 10.0,
+    "Formal and Rigorous Style Appropriateness": 10.0,
+    "Format_Adherence": 7.0,
+    "Future Plans Specificity and Feasibility": 10.0,
+    "Future Trends and Challenges Assessment": 9.0,
+    "Game_Mechanics_and_Structure": 8.0,
+    "Governance Recommendations Quality": 9.0,
+    "Health Benefits Substantiation": 9.0,
+    "Historical Accuracy & Atmosphere": 8.0,
+    "Historical Accuracy and Contextual Authenticity": 9.0,
+    "Historical and Cultural Contextualization": 9.0,
+    "Historical_Accuracy_and_Setting_Authenticity": 9.0,
+    "Historical_and_Cultural_Accuracy": 9.0,
+    "Implementation Feasibility and Project Planning": 8.0,
+    "Implementation Framework Quality": 10.0,
+    "Implementation Guidance and Case Study Integration": 10.0,
+    "Implementation Mechanisms and Resources": 10.0,
+    "Implementation Specificity": 10.0,
+    "Implementation Specificity and Risk Management": 10.0,
+    "Incorporation of Case Examples": 10.0,
+    "Industrial Application Analysis": 8.0,
+    "Industry Context Relevance": 10.0,
+    "Industry Relevance & Target Audience Appeal": 9.0,
+    "Industry-Specific Applicability": 10.0,
+    "Industry-Specific Content Relevance": 10.0,
+    "Industry-Specific Digital Transformation Relevance": 10.0,
+    "Industry-Specific Loan Demand Forecasting": 10.0,
+    "Industry-Specific Relevance": 10.0,
+    "Ingredient Sourcing Detail": 10.0,
+    "Innovation and Contemporary Relevance": 10.0,
+    "Innovative Thinking and Reform Contributions": 10.0,
+    "Inspirational Impact and Storytelling": 10.0,
+    "Instructional Material Specificity": 10.0,
+    "Integration Analysis Depth": 10.0,
+    "Integration of Economic and Judicial Perspectives": 10.0,
+    "Integration of Expert Information": 10.0,
+    "Integration of Guiding Cases and Judicial Interpretations": 10.0,
+    "Integration of Hot Issues and Enterprise Experience": 10.0,
+    "Integration of Internet Memes and Cultural References": 10.0,
+    "Integration of Product Materials": 9.0,
+    "Integration of Provided Materials": 10.0,
+    "Integration of Reference Material and Photo Placement": 10.0,
+    "Integration_of_Reference_Material": 9.0,
+    "Interactive Elements and Pedagogical Design": 10.0,
+    "Interactive Engagement Design": 10.0,
+    "Interdisciplinary Context and Impact": 10.0,
+    "Investment Strategy Specificity": 2.0,
+    "Investment Timing Assessment": 10.0,
+    "Judgment Specificity and Completeness": 10.0,
+    "Kuaishou_Platform_Optimization": 10.0,
+    "Language Quality and Academic Style": 10.0,
+    "Legal Accuracy and Comprehensiveness": 10.0,
+    "Legal Accuracy and Interpretation": 6.0,
+    "Legal Analysis Depth": 10.0,
+    "Legal Analysis and Interpretation": 10.0,
+    "Legal Application Accuracy": 7.0,
+    "Legal Compliance and Structure": 7.0,
+    "Legal Precision and Terminology": 10.0,
+    "Legal and Compliance Analysis": 10.0,
+    "Legal_Professional_Identity": 10.0,
+    "Length and Logical Coherence": 9.0,
+    "Literary_Analysis_Depth": 10.0,
+    "Localization and Context Specificity": 10.0,
+    "Management Commentary Integration": 10.0,
+    "Manufacturing Industry Context Relevance": 10.0,
+    "Market Analysis Comprehensiveness": 10.0,
+    "Market Analysis and Business Viability": 8.0,
+    "Market Research Framework Application": 10.0,
+    "Market_Expansion_Strategy_Detail": 9.0,
+    "Marketing Effectiveness": 9.0,
+    "Methodological_Rigor": 10.0,
+    "Microservices_Security_Focus": 10.0,
+    "Multimedia Format Appropriateness": 10.0,
+    "Narrative Cohesion": 10.0,
+    "Narrative Cohesion & Scene Setting": 6.0,
+    "Narrative Quality and Emotional Resonance": 10.0,
+    "Narrative Structure and Adherence to Outline": 5.0,
+    "Narrative Structure and Storytelling Quality": 9.0,
+    "Narrative_Coherence_and_Structure": 9.0,
+    "Narrative_Structure_and_Pacing": 8.0,
+    "Nostalgic Perspective": 10.0,
+    "Official Document Style Adherence": 10.0,
+    "Onboarding Flow Comprehensiveness": 10.0,
+    "Pain Point Identification & Solution Framing": 9.0,
+    "Parent-School Collaboration Framework": 10.0,
+    "Parental Pain Point Relevance": 10.0,
+    "Patent Structure Conformity": 8.0,
+    "Pedagogical Effectiveness": 10.0,
+    "Pedagogical Value and Authenticity": 9.0,
+    "Pedagogical_Structure_Comprehensiveness": 10.0,
+    "Personal Narrative Integration": 10.0,
+    "Personal Perspective and Cultural Insights": 10.0,
+    "Personal_Experience_Integration": 10.0,
+    "Phased Implementation Clarity": 10.0,
+    "Philosophical Analysis Depth": 10.0,
+    "Pitfall Prevention Strategies": 9.0,
+    "Platform_Relevance_and_Accuracy": 10.0,
+    "Plot Execution & Political Intrigue": 6.0,
+    "Plot_Coherence_and_Authenticity": 9.0,
+    "Podcast Script Quality and Engagement": 9.0,
+    "Poetic_and_Riddle_Complexity": 9.0,
+    "Policy Integration and Contextual Relevance": 9.0,
+    "Policy and Financial Sector Analysis": 10.0,
+    "Political Terminology Accuracy": 10.0,
+    "Political_Awareness": 10.0,
+    "Practical Applicability": 10.0,
+    "Practical Applicability and Case Integration": 10.0,
+    "Practical Application and Examples": 10.0,
+    "Practical Application and Templates": 10.0,
+    "Practical Enforceability and Balance": 8.0,
+    "Practical Implementability of Recommendations": 9.0,
+    "Practical Implementation Guidance": 10.0,
+    "Practical Operational Value": 10.0,
+    "Practical Stress-Relief Methods": 10.0,
+    "Practical Usability": 10.0,
+    "Practical_Classroom_Usability": 9.0,
+    "Practical_Implementation_and_Replicability": 10.0,
+    "Practicality and Resource Feasibility": 7.0,
+    "Press Release Structure and Format": 8.0,
+    "Problem Identification and Recommendation Specificity": 10.0,
+    "Procedural Clarity and Practicality": 9.0,
+    "Production Process Clarity": 10.0,
+    "Professional Communication Style": 10.0,
+    "Professional Expertise and Industry Knowledge": 10.0,
+    "Professional Financial Communication": 10.0,
+    "Professional Presentation and Persuasiveness": 9.0,
+    "Professional Structure and Presentation": 10.0,
+    "Professional Tone and Stakeholder Alignment": 10.0,
+    "Professional Tone and Structure": 9.0,
+    "Professional Tone and Target Audience Alignment": 10.0,
+    "Professional Writing Quality": 10.0,
+    "Professional_Tone_and_Structure": 9.0,
+    "Promotional Content Relevance": 4.0,
+    "Proposal Structure and Compliance": 9.0,
+    "Prosecutorial Achievements Comprehensiveness": 10.0,
+    "Public Accessibility and Engagement": 9.0,
+    "Readability_and_Delivery_Effectiveness": 9.0,
+    "Real-World Application and Contextual Analysis": 10.0,
+    "Reference Integration": 10.0,
+    "Reference Integration and Evidence-Based Argumentation": 10.0,
+    "Reference_Integration": 10.0,
+    "Regional Investment Analysis Quality": 10.0,
+    "Regulatory Compliance Accuracy": 10.0,
+    "Regulatory Compliance and Legal Framework": 9.0,
+    "Regulatory Compliance and Risk Management": 10.0,
+    "Relevance to Piping Rock Context": 8.0,
+    "Relevance_and_Adherence_to_Query": 10.0,
+    "Relevance_and_Focus": 9.0,
+    "Report Structure Adherence": 9.0,
+    "Report Structure and Completeness": 10.0,
+    "Report Structure and Format Adherence": 10.0,
+    "Report Structure and Professional Presentation": 10.0,
+    "Requirements Adherence": 9.0,
+    "Research Data Analysis": 10.0,
+    "Research_Depth_and_Originality": 10.0,
+    "Research_Gap_Identification": 10.0,
+    "Research_Proposal_Structure_Completeness": 10.0,
+    "Rhetorical Effectiveness": 10.0,
+    "Risk Control Mechanism Specificity": 10.0,
+    "Risk and Opportunity Assessment": 10.0,
+    "Russian Ballet Historical Accuracy": 8.0,
+    "Script Structure & Timing": 2.0,
+    "Script Structure Adherence": 5.0,
+    "Script Structure and Flow": 9.0,
+    "Script_Structure_and_Narrative": 9.0,
+    "Sensory Immersion": 10.0,
+    "Sentencing Rationale Coherence": 9.0,
+    "Small Business Relevance and Applicability": 10.0,
+    "Social Impact Analysis": 7.0,
+    "Social Media Marketing Expertise": 10.0,
+    "Societal_Context_Integration": 10.0,
+    "Solution Practicality & Innovation": 9.0,
+    "Solutions and Recommendations Quality": 10.0,
+    "Speaker Role Integration and Persuasiveness": 10.0,
+    "Specificity of Technical Implementation": 10.0,
+    "Specificity_and_Actionability": 10.0,
+    "Specificity_of_Innovative_Methods_and_Achievements": 10.0,
+    "Speech Structure Adherence": 10.0,
+    "Speech Structure and Content Comprehensiveness": 6.0,
+    "Strategic Alignment with Development Plan": 10.0,
+    "Strategic Framework Adherence": 9.0,
+    "Strategic Framework Comprehensiveness": 10.0,
+    "Strategic Narrative Development": 9.0,
+    "Strategic Recommendation Quality": 10.0,
+    "Strategic Success Factor Identification": 10.0,
+    "Strategic_Application_of_Case_Studies": 10.0,
+    "Structural Adherence and Content Organization": 7.0,
+    "Structural Adherence and Format Compliance": 9.0,
+    "Structural Adherence and Word Count": 10.0,
+    "Structural Coherence": 10.0,
+    "Structural Coherence & Professional Tone": 7.0,
+    "Structural Coherence and Argumentation": 9.0,
+    "Structural Coherence and Content Organization": 10.0,
+    "Structural Coherence and Format Adherence": 10.0,
+    "Structural Coherence and Organization": 9.0,
+    "Structural Coherence and Progression": 10.0,
+    "Structural Completeness and Flow": 9.0,
+    "Structural Comprehensiveness and Organization": 9.0,
+    "Structural Effectiveness": 1.0,
+    "Structural Integrity and Readability": 10.0,
+    "Structural Organization and Coherence": 8.0,
+    "Structural Organization and Logic": 10.0,
+    "Structural_Organization_and_Coherence": 10.0,
+    "Structure and Content Comprehensiveness": 8.0,
+    "Structure, Length, and Communication Effectiveness": 9.0,
+    "Structure_and_Readability": 10.0,
+    "Stylistic Appropriateness and Literary Quality": 10.0,
+    "Subject Knowledge Accuracy": 10.0,
+    "Symbolic Imagery Interpretation": 10.0,
+    "Target Audience Alignment": 10.0,
+    "Target Audience Appropriateness": 10.0,
+    "Target Audience Relevance and Professional Tone": 10.0,
+    "Target_Audience_Appropriateness": 10.0,
+    "Teaching_Methodology_Effectiveness": 10.0,
+    "Technical Accuracy & Simplification": 9.0,
+    "Technical Accuracy and Currency": 10.0,
+    "Technical Accuracy and Depth": 9.0,
+    "Technical Accuracy and Innovation": 10.0,
+    "Technical Accuracy and Integration": 10.0,
+    "Technical Analysis Comprehensiveness": 9.0,
+    "Technical Comprehensiveness": 10.0,
+    "Technical Data Analysis Quality": 9.0,
+    "Technical Feature Integration": 10.0,
+    "Technical Innovation Description": 10.0,
+    "Technical Script Format": 2.0,
+    "Technical Solution Design Depth": 10.0,
+    "Technical Sophistication of AI Stock Selection Strategy": 9.0,
+    "Technical Specificity and Relevance": 10.0,
+    "Technical_Accuracy_and_Authority": 10.0,
+    "Technical_Feasibility_and_Research_Plan": 10.0,
+    "Technical_Specificity": 10.0,
+    "Technical_Understanding_of_Content_Engagement": 10.0,
+    "Technology Industry Style": 3.0,
+    "Technology Integration Specificity": 10.0,
+    "Technology Risk Monitoring Analysis": 10.0,
+    "Text_Selection_Appropriateness": 10.0,
+    "Textual Evidence and Scene Analysis": 10.0,
+    "Textual Evidence and Specificity": 10.0,
+    "Theatrical Practicality": 10.0,
+    "Thematic Analysis Depth": 10.0,
+    "Thematic Coherence and Relevance": 10.0,
+    "Thematic Exploration and Poetic Integration": 10.0,
+    "Theoretical_Foundation_and_Industry_Relevance": 10.0,
+    "Time Efficiency and Conciseness": 1.0,
+    "Tone & Stylistic Execution": 9.0,
+    "Tone and Parent Appeal": 9.0,
+    "Tone and Persuasiveness": 10.0,
+    "Tone, Perspective and Length Appropriateness": 10.0,
+    "Trust_and_Convenience_Messaging": 10.0,
+    "Use of Provided Case Examples": 9.0,
+    "User Pain Point Alignment": 9.0,
+    "Value Proposition Clarity": 10.0,
+    "Visual Communication Effectiveness": 8.0,
+    "Visual Presentation and Data Visualization": 9.0,
+    "Visual Storytelling": 10.0,
+    "Visual and Structural Presentation": 9.0,
+    "Visual_and_Audio_Direction": 10.0,
+    "Word Count Optimization": 10.0,
+    "Writing Style and Target Audience Alignment": 10.0,
+    "Writing_Quality_and_Persuasiveness": 9.0,
+    "Writing_Style_and_Target_Audience_Alignment": 8.0,
+    "biographical_accuracy_and_comprehensiveness": 8.0,
+    "contractual_comprehensiveness": 10.0,
+    "financial_and_payment_terms": 10.0,
+    "integration_of_provided_materials": 8.0,
+    "legal_protection_and_risk_management": 10.0,
+    "literary_analysis_and_cultural_context": 10.0,
+    "narrative_tone_and_accessibility": 8.0,
+    "project_management_provisions": 10.0,
+    "structural_coherence_and_thematic_development": 10.0,
+    "technical_specification_accuracy": 10.0,
+    "《睡莲》系列专题深度": 10.0,
+    "专业健身知识准确性": 10.0,
+    "专业内容与案例整合": 10.0,
+    "专业分析风格": 10.0,
+    "专业性与可读性": 9.0,
+    "专业性与可读性平衡": 9.0,
+    "专业性与教育理念": 10.0,
+    "专业素材运用": 10.0,
+    "个人经历与身份融合": 9.0,
+    "个人评论与总结质量": 9.0,
+    "主题契合度与结构清晰度": 10.0,
+    "人物与主题塑造": 9.0,
+    "人物刻画与情感表达": 9.0,
+    "保护义务与要求详细度": 10.0,
+    "入学准备信息准确性": 10.0,
+    "公众教育与实用性": 6.0,
+    "内容完整度": 10.0,
+    "内容完整性与生平覆盖": 9.0,
+    "内容真实性与针对性": 10.0,
+    "内容素材整合与创新": 10.0,
+    "内容组织与结构": 10.0,
+    "内容结构完整性": 10.0,
+    "创意与吸引力": 9.0,
+    "判定标准明确性": 10.0,
+    "协议结构与逻辑性": 9.0,
+    "历史背景与文化语境": 10.0,
+    "友情与背叛主题深度": 9.0,
+    "反思深度与改进计划": 10.0,
+    "叙事与情感表达": 9.0,
+    "叙事技巧与语言风格": 8.0,
+    "叙事结构完整性": 9.0,
+    "叙事风格一致性": 9.0,
+    "叙事风格与表达": 8.0,
+    "口头讲稿实用性": 9.0,
+    "古典氛围与时代韵味": 10.0,
+    "司法管辖权规定的全面性": 8.0,
+    "品牌差异化表达": 9.0,
+    "品牌故事完整性": 9.0,
+    "品牌特色与实际体验的契合度": 10.0,
+    "国际比较视角": 9.0,
+    "地区覆盖完整性": 9.0,
+    "地方实际情况结合度": 9.0,
+    "增长点与风险点分析": 10.0,
+    "学术引用规范与文献整合": 9.0,
+    "学术报告结构完整性": 9.0,
+    "官方语言规范性": 9.0,
+    "实操建议质量": 10.0,
+    "实施计划的可行性与完整性": 9.0,
+    "实用信息完整度": 10.0,
+    "实用性与可操作性": 10.0,
+    "实用性与相关性": 10.0,
+    "实用性与针对性": 10.0,
+    "实践经验与解决方法": 10.0,
+    "实验原理与理论基础": 10.0,
+    "实验方法与步骤规范性": 10.0,
+    "实验结果讨论深度": 10.0,
+    "客群服务模式设计的针对性": 10.0,
+    "工业互联网应用案例分析质量": 10.0,
+    "市场实用性与目标适配度": 9.0,
+    "市场影响分析": 10.0,
+    "年龄适宜性": 10.0,
+    "幼小衔接政策融入度": 10.0,
+    "情感共鸣与价值观传递": 10.0,
+    "战略和业务模式分析": 9.0,
+    "技术细节与篇幅要求": 10.0,
+    "投资策略实用性": 10.0,
+    "投资逻辑完整性": 8.0,
+    "报告格式与专业规范": 5.0,
+    "报告结构与专业表达": 9.0,
+    "报告结构与表达": 10.0,
+    "挑战与解决方案的实用性": 9.0,
+    "改编策略的合理性": 9.0,
+    "政策准确性": 9.0,
+    "政策理解与决心表达": 10.0,
+    "政策解读准确性": 9.0,
+    "政策解读适宜性": 9.0,
+    "教学内容结构与时间分配": 10.0,
+    "教学实用性与针对性": 10.0,
+    "教学设计与实施方法": 9.0,
+    "教育指导纲要遵循度": 10.0,
+    "数据记录与分析质量": 10.0,
+    "文体与结构适切性": 10.0,
+    "文体风格一致性": 9.0,
+    "文化主题契合度": 10.0,
+    "文化冲突分析深度": 9.0,
+    "文字表达与字数要求": 9.0,
+    "文学艺术性与诗意表达": 9.0,
+    "文本分析与引用质量": 6.0,
+    "文本结构与组织逻辑": 10.0,
+    "文案准确性与法规知识运用": 4.0,
+    "文案质量与表现力": 10.0,
+    "文章结构与语言表达": 10.0,
+    "文章结构与逻辑性": 10.0,
+    "新能源盈利能力分析": 10.0,
+    "新能源转型分析质量": 9.0,
+    "旅行实用建议质量": 10.0,
+    "普法教育适切性": 10.0,
+    "智能化改造规划的具体性与创新性": 9.0,
+    "极简风格理解深度": 9.0,
+    "案例分析与实用指导": 10.0,
+    "案例分析与问题解决能力": 7.0,
+    "案例分析质量": 9.0,
+    "案例应用与实证": 10.0,
+    "母女关系剖析准确性": 6.0,
+    "氛围营造技术分析": 10.0,
+    "法律专业性与准确性": 9.0,
+    "法律依据准确性": 10.0,
+    "法律内容准确性": 9.0,
+    "法律准确性": 10.0,
+    "法律政策解析深度": 9.0,
+    "法律条款分析准确性": 10.0,
+    "活动主题专业性与针对性": 10.0,
+    "活动结构设计的完整性与逻辑性": 10.0,
+    "深度分析与见解": 9.0,
+    "游戏设计原则融合度": 9.0,
+    "特色文化与美食描述": 10.0,
+    "现实意义与社会视角": 10.0,
+    "理论应用与引用": 9.0,
+    "电影内容准确性": 5.0,
+    "研发投入分析准确性": 9.0,
+    "竞争对手对标分析": 9.0,
+    "竞品横向比较": 9.0,
+    "细节与描写生动性": 10.0,
+    "细节描述真实性": 9.0,
+    "经济分析深度": 9.0,
+    "结构与可实施性": 9.0,
+    "结构完整性": 10.0,
+    "结构完整性与叙事技巧": 8.0,
+    "结构逻辑性": 10.0,
+    "结构逻辑性与完整性": 10.0,
+    "网点转型方案全面性": 9.0,
+    "艺术分析深度与专业性": 10.0,
+    "芭蕾专业知识深度": 10.0,
+    "行业与竞争分析": 9.0,
+    "行业背景与市场定位分析": 8.0,
+    "行程规划便利性": 9.0,
+    "视频脚本格式完整性": 10.0,
+    "讨论与互动环节的实用性与参与性": 10.0,
+    "语言表达与专业性": 10.0,
+    "语言表达与明晰度": 9.0,
+    "语言表达的学术性与专业性": 10.0,
+    "语言适应性": 10.0,
+    "语言风格与专业性": 9.0,
+    "语言风格与教育适用性": 9.0,
+    "课程整体结构与连贯性": 10.0,
+    "财务分析深度": 9.5,
+    "财务数据分析深度": 9.0,
+    "责令整改明确性": 10.0,
+    "资深健身爱好者视角的真实性": 9.0,
+    "趣味性、参与性与启发性": 10.0,
+    "跨境数据与采购合规指导": 10.0,
+    "身份认同问题探讨": 9.0,
+    "边缘计算技术内容准确性与深度": 10.0,
+    "适用性与执行力": 8.0,
+    "音乐文化深度": 9.0,
+    "预算与投资回报分析的精确性": 9.0,
+    "风险因素识别与评估": 9.0
+  },
+  "min_score": 2.0,
+  "max_score": 10.0,
+  "dimension_details": {
+    "Academic Contextualization": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Academic Formality and Structure": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Academic_Comprehensiveness": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Academic_Rigor_and_Evidence": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Academic_Writing_Quality": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Accessibility and Clarity for Target Audience": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Accessibility and Language Appropriateness": {
+      "count": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8.0
+    },
+    "Actionability_and_Implementation_Detail": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Actionable Insights and Lessons": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Actionable Selection Criteria": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Adaptability and Strategic Alignment": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Adaptation Faithfulness": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Addressing Misconceptions and Educational Value": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Adherence to Format Requirements and Content Specifications": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Adherence to Outlined Structure": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Adherence to Social Media Format": {
+      "count": 1,
+      "min": 3,
+      "max": 3,
+      "avg": 3.0
+    },
+    "Age-Appropriate Language and Engagement": {
+      "count": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8.0
+    },
+    "Alignment with Policy Directives": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "American Dream Analysis": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Analytical Depth and Critical Thinking": {
+      "count": 1,
+      "min": 4,
+      "max": 4,
+      "avg": 4.0
+    },
+    "Analytical Structure and Academic Rigor": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Answer_Analysis_Quality": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Apple-Specific Insights": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Application Feasibility and Economic Impact": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Application of Environmental Law Principles": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Appropriate Length and Detail Balance": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Artistic Language and Tone": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Audience Appropriateness": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Audience Engagement": {
+      "count": 1,
+      "min": 1,
+      "max": 1,
+      "avg": 1.0
+    },
+    "Audience Engagement and Accessibility": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Authenticity and Credibility": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "BaaS模式分析": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Balance and Fairness of Perspective": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Ballet Repertoire and Technical Analysis": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Biographical_Relevance_and_Creative_Influence": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Brand Story Comprehensiveness": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Brand Story Integration": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Brand Story Relevance and Authenticity": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Brand Value Integration and Differentiation": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Brand Voice and Trust Building": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Brand-Specific Content": {
+      "count": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8.0
+    },
+    "Brand_Storytelling_and_Differentiation": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Business Transfer Specificity": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Business Unit Analysis Quality": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Call-to-Action & Persuasive Impact": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Call-to-Action Effectiveness": {
+      "count": 1,
+      "min": 1,
+      "max": 1,
+      "avg": 1.0
+    },
+    "Campaign Results and Data Specificity": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Case Analysis Quality": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Case Information Extraction Accuracy": {
+      "count": 1,
+      "min": 7,
+      "max": 7,
+      "avg": 7.0
+    },
+    "Case Integration & Application": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Case Presentation Quality": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Case Study Integration": {
+      "count": 2,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Case Study Integration and Analysis": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Character Analysis Depth": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Character Development & Protagonist Portrayal": {
+      "count": 1,
+      "min": 7,
+      "max": 7,
+      "avg": 7.0
+    },
+    "Character Development and Dialogue": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Character Development and Psychological Depth": {
+      "count": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8.0
+    },
+    "Character Psychological Analysis": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Character_Balance_and_Role_Design": {
+      "count": 1,
+      "min": 7,
+      "max": 7,
+      "avg": 7.0
+    },
+    "Character_Development_and_Background": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Clarity and Precision of Language": {
+      "count": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8.0
+    },
+    "Competitive_Advantage_Comparison_Depth": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Completeness of Patent Requirements": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Comprehensive Adherence to Structure": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Comprehensive Case Description": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Comprehensive Content Coverage": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Comprehensive Coverage of Judicial Fairness": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Comprehensive Coverage of Required Content": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Comprehensive Industry Analysis": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Comprehensive Literature Review": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Comprehensive Market Analysis": {
+      "count": 1,
+      "min": 2,
+      "max": 2,
+      "avg": 2.0
+    },
+    "Comprehensive Novel Coverage": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Comprehensive Project Coverage": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Comprehensive Risk Analysis Depth": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Comprehensive Stress Analysis & Engagement": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Comprehensiveness and Structure": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Comprehensiveness of Analysis": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Comprehensiveness of Content": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Comprehensiveness of Content Coverage": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Comprehensiveness of Contract Terms": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Comprehensiveness of Product Plan": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Comprehensiveness_and_Implementation_Guidance": {
+      "count": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8.0
+    },
+    "Comprehensiveness_and_Word_Count": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Comprehensiveness_of_Brand_Positioning_Analysis": {
+      "count": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8.0
+    },
+    "Consumer Value Articulation": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Consumer_Evaluation_Analysis_Quality": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Contemporary Relevance Analysis": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Contemporary Relevance and Audience Engagement": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Content Completeness": {
+      "count": 2,
+      "min": 6,
+      "max": 6,
+      "avg": 6.0
+    },
+    "Content Comprehensiveness": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Content Comprehensiveness and Accuracy": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Content Integration and Source Utilization": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Content Relevance and Specificity": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Content Scope and Depth": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Content Structure and Emotional Resonance": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Content_Completeness": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Content_Comprehensiveness": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Content_Relevance_and_Focus": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Contextual Integration": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Contextual Integration and Relevance": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Contextual Relevance": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Contextual Relevance and Query Adherence": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Contextual_Integration_of_Background_Information": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Contract Completeness": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Contract Relevance and Appropriateness": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Contract and Follow-up Service Guidance": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Conversational Transformation": {
+      "count": 1,
+      "min": 4,
+      "max": 4,
+      "avg": 4.0
+    },
+    "Core Competitiveness Analysis": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Correlation Analysis Precision": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Course Structure Clarity": {
+      "count": 1,
+      "min": 3,
+      "max": 3,
+      "avg": 3.0
+    },
+    "Critical Perspective Development": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Cultural Authenticity": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Cultural Context Accuracy": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Cultural and Artistic Context": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Cultural and Emotional Resonance": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Data & Evidence Integration": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Data Analysis and Case Study Quality": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Data Analysis and Interpretation": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Data Integration and Accuracy": {
+      "count": 1,
+      "min": 3,
+      "max": 3,
+      "avg": 3.0
+    },
+    "Data Visualization and Supporting Evidence": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Data-Driven Cost Optimization Analysis": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Data-Driven Decision Support": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Data-Driven Decision-Making Coverage": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Data_Integration_and_Analysis": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Data_Integration_and_Analysis_Quality": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Descriptive Detail & Visual Elements": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Dialogue Quality and Cultural Authenticity": {
+      "count": 1,
+      "min": 7,
+      "max": 7,
+      "avg": 7.0
+    },
+    "Differentiated SME Analysis and Recommendations": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Distinctive Features and Innovation": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Document Format Adherence": {
+      "count": 1,
+      "min": 3,
+      "max": 3,
+      "avg": 3.0
+    },
+    "Douyin Platform Optimization": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Dramatic Structure and Pacing": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Economic Analysis Depth": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Economic and Environmental Analysis Depth": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Educational Design Structure": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Educational Function Integration": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Educational Philosophy Communication": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Educational Value for Target Audience": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Educational and Warning Content Effectiveness": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Emotional Appeal and Trust Building": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Emotional Tone and Persuasive Quality": {
+      "count": 1,
+      "min": 7,
+      "max": 7,
+      "avg": 7.0
+    },
+    "Emotional_Resonance_and_Persuasiveness": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Engineering Feasibility Assessment": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Event-Appropriate Content": {
+      "count": 1,
+      "min": 2,
+      "max": 2,
+      "avg": 2.0
+    },
+    "Evidence and Data Support": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Evidence and Supporting Data": {
+      "count": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8.0
+    },
+    "Evidence-Based Advantage Analysis": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Evidence-Based Analysis of Case Studies": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Evidence-Based Argumentation": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Evidence-Based Credibility": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Evidentiary Assessment": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Exhibition Content Accuracy and Depth": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Exhibition Content Integration": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Fair Case Handling Articulation": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Feminist Theoretical Framework": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Financial Analysis Accuracy": {
+      "count": 1,
+      "min": 7,
+      "max": 7,
+      "avg": 7.0
+    },
+    "Financial Analysis Depth": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Financial Comprehensiveness": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Fintech Knowledge Accuracy": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Formal Legal Structure and Style": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Formal and Rigorous Style Appropriateness": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Format_Adherence": {
+      "count": 1,
+      "min": 7,
+      "max": 7,
+      "avg": 7.0
+    },
+    "Future Plans Specificity and Feasibility": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Future Trends and Challenges Assessment": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Game_Mechanics_and_Structure": {
+      "count": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8.0
+    },
+    "Governance Recommendations Quality": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Health Benefits Substantiation": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Historical Accuracy & Atmosphere": {
+      "count": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8.0
+    },
+    "Historical Accuracy and Contextual Authenticity": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Historical and Cultural Contextualization": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Historical_Accuracy_and_Setting_Authenticity": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Historical_and_Cultural_Accuracy": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Implementation Feasibility and Project Planning": {
+      "count": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8.0
+    },
+    "Implementation Framework Quality": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Implementation Guidance and Case Study Integration": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Implementation Mechanisms and Resources": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Implementation Specificity": {
+      "count": 2,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Implementation Specificity and Risk Management": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Incorporation of Case Examples": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Industrial Application Analysis": {
+      "count": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8.0
+    },
+    "Industry Context Relevance": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Industry Relevance & Target Audience Appeal": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Industry-Specific Applicability": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Industry-Specific Content Relevance": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Industry-Specific Digital Transformation Relevance": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Industry-Specific Loan Demand Forecasting": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Industry-Specific Relevance": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Ingredient Sourcing Detail": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Innovation and Contemporary Relevance": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Innovative Thinking and Reform Contributions": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Inspirational Impact and Storytelling": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Instructional Material Specificity": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Integration Analysis Depth": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Integration of Economic and Judicial Perspectives": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Integration of Expert Information": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Integration of Guiding Cases and Judicial Interpretations": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Integration of Hot Issues and Enterprise Experience": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Integration of Internet Memes and Cultural References": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Integration of Product Materials": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Integration of Provided Materials": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Integration of Reference Material and Photo Placement": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Integration_of_Reference_Material": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Interactive Elements and Pedagogical Design": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Interactive Engagement Design": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Interdisciplinary Context and Impact": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Investment Strategy Specificity": {
+      "count": 1,
+      "min": 2,
+      "max": 2,
+      "avg": 2.0
+    },
+    "Investment Timing Assessment": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Judgment Specificity and Completeness": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Kuaishou_Platform_Optimization": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Language Quality and Academic Style": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Legal Accuracy and Comprehensiveness": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Legal Accuracy and Interpretation": {
+      "count": 1,
+      "min": 6,
+      "max": 6,
+      "avg": 6.0
+    },
+    "Legal Analysis Depth": {
+      "count": 2,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Legal Analysis and Interpretation": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Legal Application Accuracy": {
+      "count": 1,
+      "min": 7,
+      "max": 7,
+      "avg": 7.0
+    },
+    "Legal Compliance and Structure": {
+      "count": 1,
+      "min": 7,
+      "max": 7,
+      "avg": 7.0
+    },
+    "Legal Precision and Terminology": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Legal and Compliance Analysis": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Legal_Professional_Identity": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Length and Logical Coherence": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Literary_Analysis_Depth": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Localization and Context Specificity": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Management Commentary Integration": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Manufacturing Industry Context Relevance": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Market Analysis Comprehensiveness": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Market Analysis and Business Viability": {
+      "count": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8.0
+    },
+    "Market Research Framework Application": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Market_Expansion_Strategy_Detail": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Marketing Effectiveness": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Methodological_Rigor": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Microservices_Security_Focus": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Multimedia Format Appropriateness": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Narrative Cohesion": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Narrative Cohesion & Scene Setting": {
+      "count": 1,
+      "min": 6,
+      "max": 6,
+      "avg": 6.0
+    },
+    "Narrative Quality and Emotional Resonance": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Narrative Structure and Adherence to Outline": {
+      "count": 1,
+      "min": 5,
+      "max": 5,
+      "avg": 5.0
+    },
+    "Narrative Structure and Storytelling Quality": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Narrative_Coherence_and_Structure": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Narrative_Structure_and_Pacing": {
+      "count": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8.0
+    },
+    "Nostalgic Perspective": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Official Document Style Adherence": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Onboarding Flow Comprehensiveness": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Pain Point Identification & Solution Framing": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Parent-School Collaboration Framework": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Parental Pain Point Relevance": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Patent Structure Conformity": {
+      "count": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8.0
+    },
+    "Pedagogical Effectiveness": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Pedagogical Value and Authenticity": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Pedagogical_Structure_Comprehensiveness": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Personal Narrative Integration": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Personal Perspective and Cultural Insights": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Personal_Experience_Integration": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Phased Implementation Clarity": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Philosophical Analysis Depth": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Pitfall Prevention Strategies": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Platform_Relevance_and_Accuracy": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Plot Execution & Political Intrigue": {
+      "count": 1,
+      "min": 6,
+      "max": 6,
+      "avg": 6.0
+    },
+    "Plot_Coherence_and_Authenticity": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Podcast Script Quality and Engagement": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Poetic_and_Riddle_Complexity": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Policy Integration and Contextual Relevance": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Policy and Financial Sector Analysis": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Political Terminology Accuracy": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Political_Awareness": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Practical Applicability": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Practical Applicability and Case Integration": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Practical Application and Examples": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Practical Application and Templates": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Practical Enforceability and Balance": {
+      "count": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8.0
+    },
+    "Practical Implementability of Recommendations": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Practical Implementation Guidance": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Practical Operational Value": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Practical Stress-Relief Methods": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Practical Usability": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Practical_Classroom_Usability": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Practical_Implementation_and_Replicability": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Practicality and Resource Feasibility": {
+      "count": 1,
+      "min": 7,
+      "max": 7,
+      "avg": 7.0
+    },
+    "Press Release Structure and Format": {
+      "count": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8.0
+    },
+    "Problem Identification and Recommendation Specificity": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Procedural Clarity and Practicality": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Production Process Clarity": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Professional Communication Style": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Professional Expertise and Industry Knowledge": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Professional Financial Communication": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Professional Presentation and Persuasiveness": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Professional Structure and Presentation": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Professional Tone and Stakeholder Alignment": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Professional Tone and Structure": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Professional Tone and Target Audience Alignment": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Professional Writing Quality": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Professional_Tone_and_Structure": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Promotional Content Relevance": {
+      "count": 1,
+      "min": 4,
+      "max": 4,
+      "avg": 4.0
+    },
+    "Proposal Structure and Compliance": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Prosecutorial Achievements Comprehensiveness": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Public Accessibility and Engagement": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Readability_and_Delivery_Effectiveness": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Real-World Application and Contextual Analysis": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Reference Integration": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Reference Integration and Evidence-Based Argumentation": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Reference_Integration": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Regional Investment Analysis Quality": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Regulatory Compliance Accuracy": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Regulatory Compliance and Legal Framework": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Regulatory Compliance and Risk Management": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Relevance to Piping Rock Context": {
+      "count": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8.0
+    },
+    "Relevance_and_Adherence_to_Query": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Relevance_and_Focus": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Report Structure Adherence": {
+      "count": 2,
+      "min": 8,
+      "max": 10,
+      "avg": 9.0
+    },
+    "Report Structure and Completeness": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Report Structure and Format Adherence": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Report Structure and Professional Presentation": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Requirements Adherence": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Research Data Analysis": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Research_Depth_and_Originality": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Research_Gap_Identification": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Research_Proposal_Structure_Completeness": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Rhetorical Effectiveness": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Risk Control Mechanism Specificity": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Risk and Opportunity Assessment": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Russian Ballet Historical Accuracy": {
+      "count": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8.0
+    },
+    "Script Structure & Timing": {
+      "count": 1,
+      "min": 2,
+      "max": 2,
+      "avg": 2.0
+    },
+    "Script Structure Adherence": {
+      "count": 1,
+      "min": 5,
+      "max": 5,
+      "avg": 5.0
+    },
+    "Script Structure and Flow": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Script_Structure_and_Narrative": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Sensory Immersion": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Sentencing Rationale Coherence": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Small Business Relevance and Applicability": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Social Impact Analysis": {
+      "count": 1,
+      "min": 7,
+      "max": 7,
+      "avg": 7.0
+    },
+    "Social Media Marketing Expertise": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Societal_Context_Integration": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Solution Practicality & Innovation": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Solutions and Recommendations Quality": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Speaker Role Integration and Persuasiveness": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Specificity of Technical Implementation": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Specificity_and_Actionability": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Specificity_of_Innovative_Methods_and_Achievements": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Speech Structure Adherence": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Speech Structure and Content Comprehensiveness": {
+      "count": 1,
+      "min": 6,
+      "max": 6,
+      "avg": 6.0
+    },
+    "Strategic Alignment with Development Plan": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Strategic Framework Adherence": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Strategic Framework Comprehensiveness": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Strategic Narrative Development": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Strategic Recommendation Quality": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Strategic Success Factor Identification": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Strategic_Application_of_Case_Studies": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Structural Adherence and Content Organization": {
+      "count": 1,
+      "min": 7,
+      "max": 7,
+      "avg": 7.0
+    },
+    "Structural Adherence and Format Compliance": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Structural Adherence and Word Count": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Structural Coherence": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Structural Coherence & Professional Tone": {
+      "count": 1,
+      "min": 7,
+      "max": 7,
+      "avg": 7.0
+    },
+    "Structural Coherence and Argumentation": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Structural Coherence and Content Organization": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Structural Coherence and Format Adherence": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Structural Coherence and Organization": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Structural Coherence and Progression": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Structural Completeness and Flow": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Structural Comprehensiveness and Organization": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Structural Effectiveness": {
+      "count": 1,
+      "min": 1,
+      "max": 1,
+      "avg": 1.0
+    },
+    "Structural Integrity and Readability": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Structural Organization and Coherence": {
+      "count": 2,
+      "min": 6,
+      "max": 10,
+      "avg": 8.0
+    },
+    "Structural Organization and Logic": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Structural_Organization_and_Coherence": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Structure and Content Comprehensiveness": {
+      "count": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8.0
+    },
+    "Structure, Length, and Communication Effectiveness": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Structure_and_Readability": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Stylistic Appropriateness and Literary Quality": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Subject Knowledge Accuracy": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Symbolic Imagery Interpretation": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Target Audience Alignment": {
+      "count": 3,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Target Audience Appropriateness": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Target Audience Relevance and Professional Tone": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Target_Audience_Appropriateness": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Teaching_Methodology_Effectiveness": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Technical Accuracy & Simplification": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Technical Accuracy and Currency": {
+      "count": 2,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Technical Accuracy and Depth": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Technical Accuracy and Innovation": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Technical Accuracy and Integration": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Technical Analysis Comprehensiveness": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Technical Comprehensiveness": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Technical Data Analysis Quality": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Technical Feature Integration": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Technical Innovation Description": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Technical Script Format": {
+      "count": 1,
+      "min": 2,
+      "max": 2,
+      "avg": 2.0
+    },
+    "Technical Solution Design Depth": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Technical Sophistication of AI Stock Selection Strategy": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Technical Specificity and Relevance": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Technical_Accuracy_and_Authority": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Technical_Feasibility_and_Research_Plan": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Technical_Specificity": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Technical_Understanding_of_Content_Engagement": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Technology Industry Style": {
+      "count": 1,
+      "min": 3,
+      "max": 3,
+      "avg": 3.0
+    },
+    "Technology Integration Specificity": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Technology Risk Monitoring Analysis": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Text_Selection_Appropriateness": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Textual Evidence and Scene Analysis": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Textual Evidence and Specificity": {
+      "count": 2,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Theatrical Practicality": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Thematic Analysis Depth": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Thematic Coherence and Relevance": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Thematic Exploration and Poetic Integration": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Theoretical_Foundation_and_Industry_Relevance": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Time Efficiency and Conciseness": {
+      "count": 1,
+      "min": 1,
+      "max": 1,
+      "avg": 1.0
+    },
+    "Tone & Stylistic Execution": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Tone and Parent Appeal": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Tone and Persuasiveness": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Tone, Perspective and Length Appropriateness": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Trust_and_Convenience_Messaging": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Use of Provided Case Examples": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "User Pain Point Alignment": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Value Proposition Clarity": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Visual Communication Effectiveness": {
+      "count": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8.0
+    },
+    "Visual Presentation and Data Visualization": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Visual Storytelling": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Visual and Structural Presentation": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Visual_and_Audio_Direction": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Word Count Optimization": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Writing Style and Target Audience Alignment": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "Writing_Quality_and_Persuasiveness": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "Writing_Style_and_Target_Audience_Alignment": {
+      "count": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8.0
+    },
+    "biographical_accuracy_and_comprehensiveness": {
+      "count": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8.0
+    },
+    "contractual_comprehensiveness": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "financial_and_payment_terms": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "integration_of_provided_materials": {
+      "count": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8.0
+    },
+    "legal_protection_and_risk_management": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "literary_analysis_and_cultural_context": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "narrative_tone_and_accessibility": {
+      "count": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8.0
+    },
+    "project_management_provisions": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "structural_coherence_and_thematic_development": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "technical_specification_accuracy": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "《睡莲》系列专题深度": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "专业健身知识准确性": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "专业内容与案例整合": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "专业分析风格": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "专业性与可读性": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "专业性与可读性平衡": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "专业性与教育理念": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "专业素材运用": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "个人经历与身份融合": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "个人评论与总结质量": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "主题契合度与结构清晰度": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "人物与主题塑造": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "人物刻画与情感表达": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "保护义务与要求详细度": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "入学准备信息准确性": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "公众教育与实用性": {
+      "count": 1,
+      "min": 6,
+      "max": 6,
+      "avg": 6.0
+    },
+    "内容完整度": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "内容完整性与生平覆盖": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "内容真实性与针对性": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "内容素材整合与创新": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "内容组织与结构": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "内容结构完整性": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "创意与吸引力": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "判定标准明确性": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "协议结构与逻辑性": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "历史背景与文化语境": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "友情与背叛主题深度": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "反思深度与改进计划": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "叙事与情感表达": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "叙事技巧与语言风格": {
+      "count": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8.0
+    },
+    "叙事结构完整性": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "叙事风格一致性": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "叙事风格与表达": {
+      "count": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8.0
+    },
+    "口头讲稿实用性": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "古典氛围与时代韵味": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "司法管辖权规定的全面性": {
+      "count": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8.0
+    },
+    "品牌差异化表达": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "品牌故事完整性": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "品牌特色与实际体验的契合度": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "国际比较视角": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "地区覆盖完整性": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "地方实际情况结合度": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "增长点与风险点分析": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "学术引用规范与文献整合": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "学术报告结构完整性": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "官方语言规范性": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "实操建议质量": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "实施计划的可行性与完整性": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "实用信息完整度": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "实用性与可操作性": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "实用性与相关性": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "实用性与针对性": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "实践经验与解决方法": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "实验原理与理论基础": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "实验方法与步骤规范性": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "实验结果讨论深度": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "客群服务模式设计的针对性": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "工业互联网应用案例分析质量": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "市场实用性与目标适配度": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "市场影响分析": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "年龄适宜性": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "幼小衔接政策融入度": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "情感共鸣与价值观传递": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "战略和业务模式分析": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "技术细节与篇幅要求": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "投资策略实用性": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "投资逻辑完整性": {
+      "count": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8.0
+    },
+    "报告格式与专业规范": {
+      "count": 1,
+      "min": 5,
+      "max": 5,
+      "avg": 5.0
+    },
+    "报告结构与专业表达": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "报告结构与表达": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "挑战与解决方案的实用性": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "改编策略的合理性": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "政策准确性": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "政策理解与决心表达": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "政策解读准确性": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "政策解读适宜性": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "教学内容结构与时间分配": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "教学实用性与针对性": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "教学设计与实施方法": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "教育指导纲要遵循度": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "数据记录与分析质量": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "文体与结构适切性": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "文体风格一致性": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "文化主题契合度": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "文化冲突分析深度": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "文字表达与字数要求": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "文学艺术性与诗意表达": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "文本分析与引用质量": {
+      "count": 1,
+      "min": 6,
+      "max": 6,
+      "avg": 6.0
+    },
+    "文本结构与组织逻辑": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "文案准确性与法规知识运用": {
+      "count": 1,
+      "min": 4,
+      "max": 4,
+      "avg": 4.0
+    },
+    "文案质量与表现力": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "文章结构与语言表达": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "文章结构与逻辑性": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "新能源盈利能力分析": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "新能源转型分析质量": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "旅行实用建议质量": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "普法教育适切性": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "智能化改造规划的具体性与创新性": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "极简风格理解深度": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "案例分析与实用指导": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "案例分析与问题解决能力": {
+      "count": 1,
+      "min": 7,
+      "max": 7,
+      "avg": 7.0
+    },
+    "案例分析质量": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "案例应用与实证": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "母女关系剖析准确性": {
+      "count": 1,
+      "min": 6,
+      "max": 6,
+      "avg": 6.0
+    },
+    "氛围营造技术分析": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "法律专业性与准确性": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "法律依据准确性": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "法律内容准确性": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "法律准确性": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "法律政策解析深度": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "法律条款分析准确性": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "活动主题专业性与针对性": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "活动结构设计的完整性与逻辑性": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "深度分析与见解": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "游戏设计原则融合度": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "特色文化与美食描述": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "现实意义与社会视角": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "理论应用与引用": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "电影内容准确性": {
+      "count": 1,
+      "min": 5,
+      "max": 5,
+      "avg": 5.0
+    },
+    "研发投入分析准确性": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "竞争对手对标分析": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "竞品横向比较": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "细节与描写生动性": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "细节描述真实性": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "经济分析深度": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "结构与可实施性": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "结构完整性": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "结构完整性与叙事技巧": {
+      "count": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8.0
+    },
+    "结构逻辑性": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "结构逻辑性与完整性": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "网点转型方案全面性": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "艺术分析深度与专业性": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "芭蕾专业知识深度": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "行业与竞争分析": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "行业背景与市场定位分析": {
+      "count": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8.0
+    },
+    "行程规划便利性": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "视频脚本格式完整性": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "讨论与互动环节的实用性与参与性": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "语言表达与专业性": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "语言表达与明晰度": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "语言表达的学术性与专业性": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "语言适应性": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "语言风格与专业性": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "语言风格与教育适用性": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "课程整体结构与连贯性": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "财务分析深度": {
+      "count": 2,
+      "min": 9,
+      "max": 10,
+      "avg": 9.5
+    },
+    "财务数据分析深度": {
+      "count": 2,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "责令整改明确性": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "资深健身爱好者视角的真实性": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "趣味性、参与性与启发性": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "跨境数据与采购合规指导": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "身份认同问题探讨": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "边缘计算技术内容准确性与深度": {
+      "count": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10.0
+    },
+    "适用性与执行力": {
+      "count": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8.0
+    },
+    "音乐文化深度": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "预算与投资回报分析的精确性": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    },
+    "风险因素识别与评估": {
+      "count": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9.0
+    }
+  }
+}
